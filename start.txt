@@ -1,2 +1,2 @@
 Test git quick start demo
-add something
+add something, and commit
