@@ -2,3 +2,6 @@ Test git quick start demo
 add something, and commit
 
 other developer edit this
+
+doing some realwork here, which may cause a conflict
+and let's see
