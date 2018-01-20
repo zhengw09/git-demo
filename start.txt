@@ -2,7 +2,7 @@ Test git quick start demo
 add something, and commit
 
 
-local updating
+local updating 22222
 
 other developer edit this
 conflict changes here
