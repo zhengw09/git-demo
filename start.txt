@@ -1,8 +1,10 @@
 Test git quick start demo
 add something, and commit
 
+update title here, make some change
 
-local updating 22222
+
+continue editing
 
 other developer edit this
 conflict changes here
