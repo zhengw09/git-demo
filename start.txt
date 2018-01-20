@@ -4,3 +4,5 @@ add something, and commit
 other developer edit this
 conflict changes here
 not sure what ist tobe
+
+change from remote
