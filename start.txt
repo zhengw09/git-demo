@@ -2,6 +2,7 @@ Test git quick start demo
 add something, and commit
 
 update title here, make some change
+changed by developer B
 
 add stm
 
@@ -11,4 +12,4 @@ other developer edit this
 conflict changes here
 not sure what ist tobe
 
-change from remote 2222222
+change from remote
